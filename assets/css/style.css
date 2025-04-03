@@ -1029,6 +1029,11 @@ textarea.contact-input {
     left: 250px;
     background-color: black;
   }
+  .abs-icon-4 {
+    bottom: -40px;
+    right: 0;
+    background-color: black;
+  }
 
   /**
    * PORTFOLIO
@@ -1103,4 +1108,26 @@ textarea.contact-input {
   .footer-list {
     margin-inline: 0;
   }
+}
+
+/* icons */
+.myiconcss {
+  background-color: white;
+  padding: 4px;
+  color: #2764f1;
+}
+.myiconjs {
+  background-color: white;
+  padding: 4px;
+  color: #ffd814;
+}
+.myicongit {
+  background-color: white;
+  padding: 4px;
+  color: #000000;
+}
+.myiconphp {
+  background-color: white;
+  padding: 4px;
+  color: #000000;
 }
